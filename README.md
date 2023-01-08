@@ -6,3 +6,4 @@
 - [x] classes, properties and methods
 - [x] the constructor and destructor
 - [x] access modifiers, getters and setters
+- [x] class inheritance
