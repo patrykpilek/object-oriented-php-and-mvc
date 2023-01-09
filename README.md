@@ -9,10 +9,21 @@
 - [x] class inheritance
 - [x] static methods and properties
 
-### The Framework [Part 1] -  The Core
+### The Framework [Part 1] - The Core
 
 - [x] creating the folder structure
 - [x] direct everything through index.php
 - [x] bootstrap file and core class
 - [x] loading the controller form the url
 - [x] mapping methods and parameters
+
+### The Framework [Part 2] - MVC Workflow
+
+- [x] base controller class
+- [ ] loading views
+- [ ] config file and uploader
+- [ ] header and footer includes
+- [ ] aside - PDO crash course
+- [ ] the database class - part 1
+- [ ] the database class - part 2
+- [ ] clean up
