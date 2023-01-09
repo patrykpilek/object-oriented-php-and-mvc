@@ -13,6 +13,6 @@
 
 - [x] creating the folder structure
 - [x] direct everything through index.php
-- [ ] bootstrap file and core class
+- [x] bootstrap file and core class
 - [ ] loading the controller form the url
 - [ ] mapping methods and parameters
