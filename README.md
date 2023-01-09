@@ -15,4 +15,4 @@
 - [x] direct everything through index.php
 - [x] bootstrap file and core class
 - [x] loading the controller form the url
-- [ ] mapping methods and parameters
+- [x] mapping methods and parameters
