@@ -20,7 +20,7 @@
 ### The Framework [Part 2] - MVC Workflow
 
 - [x] base controller class
-- [ ] loading views
+- [x] loading views
 - [ ] config file and uploader
 - [ ] header and footer includes
 - [ ] aside - PDO crash course
