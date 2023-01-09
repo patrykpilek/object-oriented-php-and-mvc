@@ -8,3 +8,11 @@
 - [x] access modifiers, getters and setters
 - [x] class inheritance
 - [x] static methods and properties
+
+### The Framework [Part 1] -  The Core
+
+- [x] creating the folder structure
+- [x] direct everything through index.php
+- [x] bootstrap file and core class
+- [x] loading the controller form the url
+- [x] mapping methods and parameters
