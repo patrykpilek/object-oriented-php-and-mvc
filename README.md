@@ -14,5 +14,5 @@
 - [x] creating the folder structure
 - [x] direct everything through index.php
 - [x] bootstrap file and core class
-- [ ] loading the controller form the url
+- [x] loading the controller form the url
 - [ ] mapping methods and parameters
