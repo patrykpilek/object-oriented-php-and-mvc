@@ -25,5 +25,5 @@
 - [x] header and footer includes
 - [x] aside - PDO crash course
 - [x] the database class - part 1
-- [ ] the database class - part 2
+- [x] the database class - part 2
 - [ ] clean up
