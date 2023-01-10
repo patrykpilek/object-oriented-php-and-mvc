@@ -24,6 +24,6 @@
 - [x] config file and uploader
 - [x] header and footer includes
 - [x] aside - PDO crash course
-- [ ] the database class - part 1
+- [x] the database class - part 1
 - [ ] the database class - part 2
 - [ ] clean up
