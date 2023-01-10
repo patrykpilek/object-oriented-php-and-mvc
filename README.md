@@ -23,7 +23,7 @@
 - [x] loading views
 - [x] config file and uploader
 - [x] header and footer includes
-- [ ] aside - PDO crash course
+- [x] aside - PDO crash course
 - [ ] the database class - part 1
 - [ ] the database class - part 2
 - [ ] clean up
