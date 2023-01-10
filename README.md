@@ -34,7 +34,7 @@
 - [x] pages, bootstrap and navbar
 - [x] creating the user controller
 - [x] register and login form views
-- [ ] form validation
+- [x] form validation
 - [ ] user model and email check
 - [ ] user registration
 - [ ] custom flash messaging
