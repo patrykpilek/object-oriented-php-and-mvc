@@ -26,4 +26,4 @@
 - [x] aside - PDO crash course
 - [x] the database class - part 1
 - [x] the database class - part 2
-- [ ] clean up
+- [x] clean up
