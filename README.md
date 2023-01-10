@@ -22,7 +22,7 @@
 - [x] base controller class
 - [x] loading views
 - [x] config file and uploader
-- [ ] header and footer includes
+- [x] header and footer includes
 - [ ] aside - PDO crash course
 - [ ] the database class - part 1
 - [ ] the database class - part 2
