@@ -31,7 +31,7 @@
 ### The App [Part 1] - Setup and User Authentication
 
 - [x] initial app and database setup
-- [ ] pages, bootstrap and navbar
+- [x] pages, bootstrap and navbar
 - [ ] creating the user controller
 - [ ] register and login form views
 - [ ] form validation
