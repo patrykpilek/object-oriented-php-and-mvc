@@ -32,7 +32,7 @@
 
 - [x] initial app and database setup
 - [x] pages, bootstrap and navbar
-- [ ] creating the user controller
+- [x] creating the user controller
 - [ ] register and login form views
 - [ ] form validation
 - [ ] user model and email check
