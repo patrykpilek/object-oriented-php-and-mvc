@@ -33,7 +33,7 @@
 - [x] initial app and database setup
 - [x] pages, bootstrap and navbar
 - [x] creating the user controller
-- [ ] register and login form views
+- [x] register and login form views
 - [ ] form validation
 - [ ] user model and email check
 - [ ] user registration
