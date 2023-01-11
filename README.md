@@ -35,7 +35,7 @@
 - [x] creating the user controller
 - [x] register and login form views
 - [x] form validation
-- [ ] user model and email check
+- [x] user model and email check
 - [ ] user registration
 - [ ] custom flash messaging
 - [ ] user login
