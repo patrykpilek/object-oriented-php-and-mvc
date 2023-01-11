@@ -39,4 +39,4 @@
 - [x] user registration
 - [x] custom flash messaging
 - [x] user login
-- [ ] use session data and logout
+- [x] use session data and logout
