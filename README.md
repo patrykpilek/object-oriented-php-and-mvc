@@ -38,5 +38,5 @@
 - [x] user model and email check
 - [x] user registration
 - [x] custom flash messaging
-- [ ] user login
+- [x] user login
 - [ ] use session data and logout
