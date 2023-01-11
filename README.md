@@ -27,3 +27,16 @@
 - [x] the database class - part 1
 - [x] the database class - part 2
 - [x] clean up
+
+### The App [Part 1] - Setup and User Authentication
+
+- [x] initial app and database setup
+- [x] pages, bootstrap and navbar
+- [x] creating the user controller
+- [x] register and login form views
+- [x] form validation
+- [x] user model and email check
+- [x] user registration
+- [x] custom flash messaging
+- [x] user login
+- [x] use session data and logout
