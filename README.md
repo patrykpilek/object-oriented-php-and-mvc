@@ -44,7 +44,7 @@
 ### The App [Part 2] - Posts Functionality
 
 - [x] posts controller
-- [ ] posts access control
+- [x] posts access control
 - [ ] post model and display
 - [ ] add post form
 - [ ] inserting posts
