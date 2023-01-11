@@ -49,6 +49,5 @@
 - [x] add post form
 - [x] inserting posts
 - [x] post show details page
-- [ ] editing posts
-- [ ] editing posts
+- [x] editing posts
 - [ ] deleting posts
