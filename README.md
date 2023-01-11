@@ -36,7 +36,7 @@
 - [x] register and login form views
 - [x] form validation
 - [x] user model and email check
-- [ ] user registration
+- [x] user registration
 - [ ] custom flash messaging
 - [ ] user login
 - [ ] use session data and logout
