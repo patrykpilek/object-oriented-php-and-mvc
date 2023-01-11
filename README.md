@@ -45,7 +45,7 @@
 
 - [x] posts controller
 - [x] posts access control
-- [ ] post model and display
+- [x] post model and display
 - [ ] add post form
 - [ ] inserting posts
 - [ ] post show details page
