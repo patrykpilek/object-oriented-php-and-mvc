@@ -50,4 +50,4 @@
 - [x] inserting posts
 - [x] post show details page
 - [x] editing posts
-- [ ] deleting posts
+- [x] deleting posts
