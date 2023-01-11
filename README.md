@@ -40,3 +40,14 @@
 - [x] custom flash messaging
 - [x] user login
 - [x] use session data and logout
+
+### The App [Part 2] - Posts Functionality
+
+- [x] posts controller
+- [x] posts access control
+- [x] post model and display
+- [x] add post form
+- [x] inserting posts
+- [x] post show details page
+- [x] editing posts
+- [x] deleting posts
