@@ -48,7 +48,7 @@
 - [x] post model and display
 - [x] add post form
 - [x] inserting posts
-- [ ] post show details page
+- [x] post show details page
 - [ ] editing posts
 - [ ] editing posts
 - [ ] deleting posts
